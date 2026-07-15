@@ -30,6 +30,7 @@ setup(
             'vision_node = my_robot_pkg.vision_node:main',
             'fake_arm_node = my_robot_pkg.fake_arm_node:main',
             'control_node = my_robot_pkg.control_node:main',
+            'sim_arm_node = my_robot_pkg.sim_arm_node:main',
         ],
     },
 )
