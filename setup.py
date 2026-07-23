@@ -31,6 +31,7 @@ setup(
             'fake_arm_node = my_robot_pkg.fake_arm_node:main',
             'control_node = my_robot_pkg.control_node:main',
             'sim_arm_node = my_robot_pkg.sim_arm_node:main',
+            'hand_node = my_robot_pkg.hand_node:main',
         ],
     },
 )
